@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SapiensProject", "SapiensProject\SapiensProject.csproj", "{08F65159-61F1-4531-ABB4-199AD7C49264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademicaService", "AcademicaService\AcademicaService.csproj", "{50766E01-24A4-4BE8-993E-DE602DA7AC76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F65159-61F1-4531-ABB4-199AD7C49264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F65159-61F1-4531-ABB4-199AD7C49264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F65159-61F1-4531-ABB4-199AD7C49264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F65159-61F1-4531-ABB4-199AD7C49264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50766E01-24A4-4BE8-993E-DE602DA7AC76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50766E01-24A4-4BE8-993E-DE602DA7AC76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50766E01-24A4-4BE8-993E-DE602DA7AC76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50766E01-24A4-4BE8-993E-DE602DA7AC76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39D0C063-9ECC-442F-A950-D0A76AEA3907}
+	EndGlobalSection
+EndGlobal
